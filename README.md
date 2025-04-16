@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Adrielle!
-- 🧪 I am currently in my **first** year of studying BS Chemical Engineering
+- 🧪 I am currently in my **first** year of studying BS Information Technology - Mobile and Web Development
 - 📫 You may contact me at: adrielle.agbayani9@gmail.com
 
 <!---
