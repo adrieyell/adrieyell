@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Adrielle!
-- 🧪 I am currently studying **BS Information Technology - Mobile and Web Development**
+- 💻 I am currently studying **BS Information Technology - Mobile and Web Development**
 - 📫 You may contact me at: adrielle.agbayani9@gmail.com
 
 <!---
